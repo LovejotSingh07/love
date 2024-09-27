@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<title>CSCI 101 sec 8</title>
+<body>
+<p> Vancouver
+<hr>
+<h6>Learn HTML programming.</h6>
+<h1>Lovejot Singh</h1>
+<span style="position:relative;left;120px">
+Student number:814560</span>
+  
+  
+<p>-----finish-----.</p>
+</body>
+</html>
